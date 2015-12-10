@@ -1,7 +1,7 @@
 #Lenguajes y Paradigmas de Programación
 ##Práctica10: Programación Funcional - Funciones de orden superior
 
-### Autor:
+### Miembro:
 * Adexe Sabina Pérez.
 
 ## Installation

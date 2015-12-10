@@ -1,7 +1,7 @@
 #Lenguajes y Paradigmas de Programación
-##Práctica9: POO - Módulos
+##Práctica10: Programación Funcional - Funciones de orden superior
 
-### Miembro:
+### Autor:
 * Adexe Sabina Pérez.
 
 ## Installation

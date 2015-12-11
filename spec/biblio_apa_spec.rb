@@ -15,7 +15,7 @@ describe BiblioGem::APABibliography do
         
         it "Apellidos e iniciales del nombre de los libros" do
             expect(@bib1.to_s).to eq("Autores:\nThomas, D.\nHunt, A.\nFowler, C.\n")
-            expect(@bib2.to_s).to eq("Hunt, A.")
+            expect(@bib2.to_s).to eq("Autor:\nHunt, A.\n")
         end
     end
 end

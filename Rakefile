@@ -7,6 +7,7 @@ task :spec do
   sh "bundle exec rspec spec/biblio_gem_spec.rb"
   sh "bundle exec rspec spec/node_spec.rb"
   sh "bundle exec rspec spec/list_spec.rb"
+  sh "bundle exec rspec spec/biblio_apa_spec.rb"
 end
 
 task :biblio do
@@ -19,4 +20,8 @@ end
 
 task :list do
     sh "bundle exec rspec spec/list_spec.rb"
+end
+
+task :apa do
+  sh "bundle exec rspec spec/biblio_apa_spec.rb"
 end
